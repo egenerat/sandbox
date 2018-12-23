@@ -12,3 +12,8 @@ Build and run
 g++ hello.cpp
 ./a.out
 ```
+
+Threads
+```
+g++ threads.cpp -lpthread
+```
