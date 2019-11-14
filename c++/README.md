@@ -1,10 +1,16 @@
 # C++
 
-Install and check version
+## Install and check version
 
+### Ubuntu
 ```
 sudo apt install build-essential
 gcc -v
+```
+
+### Manjaro
+```
+sudo pacman -Syu gcc boost
 ```
 
 Build and run
